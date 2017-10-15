@@ -618,7 +618,7 @@
     }
     
     self.navigationItem.leftBarButtonItems = leftItems;
-    self.navigationItem.leftItemsSupplementBackButton = YES;
+//    self.navigationItem.leftItemsSupplementBackButton = YES;
     self.navigationItem.rightBarButtonItems = rightItems;
 }
 
