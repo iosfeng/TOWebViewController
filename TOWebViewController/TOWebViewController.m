@@ -505,9 +505,9 @@
         
     //Reset the lot
     self.toolbarItems = nil;
-    self.navigationItem.leftBarButtonItems = nil;
+//    self.navigationItem.leftBarButtonItems = nil;
     self.navigationItem.rightBarButtonItems = nil;
-    self.navigationItem.leftItemsSupplementBackButton = NO;
+//    self.navigationItem.leftItemsSupplementBackButton = NO;
     
     //If we've got explicitly set application items in the navigation bar, set them up before handling screen cases
     if (self.applicationLeftBarButtonItems) {
